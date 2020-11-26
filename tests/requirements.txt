@@ -1,1 +1,7 @@
+coveralls
+flexmock
+pytest
 pytest-benchmark
+pytest-cov
+pytest-mock
+pyyaml
